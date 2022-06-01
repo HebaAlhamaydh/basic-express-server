@@ -1,8 +1,8 @@
 # basic-express-server
 
-[Pull Request]()
-[GitHub]()
-[heroku]()
+- [Pull Request](https://github.com/HebaAlhamaydh/basic-express-server/pull/3)
+- [GitHub](https://hebaalhamaydh.github.io/basic-express-server/)
+- [heroku](https://heba-basic-express-server.herokuapp.com/)
 
 
 - Create a new repository called basic-express-server and Work in a new branch called dev
