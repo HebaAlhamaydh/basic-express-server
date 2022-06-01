@@ -12,7 +12,7 @@ app.use(logger);
 //app.use(validator);
 
 app.get("/", (req, res) => {
-    res.status(200).send('Hello ');
+    res.status(200).send('Hello');
 });
 app.get("/person", validator,(req, res) => {
     res.json({ 
